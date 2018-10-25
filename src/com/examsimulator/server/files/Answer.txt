@@ -1,0 +1,11 @@
+a001@1@A group of objects@5
+a002@2@List<String> a=new ArrayList();@5
+a003@3@To be overridden method must have the same name, parameter and return types@5
+a004@4@A final method cannot be overridden@5
+a005@5@Has-a relationship always rely on inheritance@5
+a006@6@void search(String name){}@5
+a007@7@An incompletely implemented class must be declared abstract@5
+a008@8@Object references can be converted in both assignments and method calls but the rules governing these conversions are very identical@5
+a009@9@All of the method in an interface are implicitly abstract@5
+a010@10@protected abstract class Test{}@5
+a011@11@An abstract class must contain at least one abstract method@5
